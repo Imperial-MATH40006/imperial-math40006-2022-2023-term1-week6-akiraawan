@@ -133,6 +133,10 @@ def question1_i_f():
 def question1_i_g():        
         return 3
 
+def question1_i_h():
+        return 4
+    # this wasn't defined earlier so I just made it so I can move on with teh worksheet 
+
     
 def question1_ii_check(sol, ans, typ):
     score = 0
